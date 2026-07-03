@@ -1,0 +1,32 @@
+# Node dependencies
+node_modules/
+frontend/node_modules/
+
+# Production builds
+dist/
+frontend/dist/
+dist-ssr/
+frontend/dist-ssr/
+
+# Python caching
+__pycache__/
+backend/__pycache__/
+*.pyc
+
+# Logs
+*.log
+logs/
+
+# Local env files
+*.local
+.env
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.sln
+
+# Gemini/Agent workspace settings
+.gemini/
