@@ -773,7 +773,7 @@ export default function DashboardView() {
             }`}
           >
             <Sparkles size={16} className={demoActive ? 'animate-spin' : ''} />
-            {demoActive ? `DEMO RUNNING (Step ${demoStep}/6)` : 'Trigger Hackathon Demo Flow'}
+            {demoActive ? `ANALYSIS RUNNING (Step ${demoStep}/6)` : 'START REAL-TIME VEHICLE ANALYSIS'}
           </button>
 
           {/* Voice alerts toggle */}
